@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ufuk<br>A passionate software developer from Istanbul<br>🔭 I’m currently working on Connecta
+Hi 👋, I'm Ufuk<br>A passionate software developer from Istanbul<br>🔭 
 
 
 ## 🌐 Socials:
